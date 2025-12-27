@@ -1,0 +1,86 @@
+﻿@page
+@model ArticlApp.Pages.AllUsersModel
+@{
+}
+
+
+<section class="bounce animated article-clean">
+    <div class="container">
+        <section class="team-boxed">
+            <div class="container">
+                <div class="intro">
+                    <h2 class="text-center" style="font-family: Cairo, sans-serif;">ناشرونا</h2>
+                </div>
+                <form class="me-auto search-form" target="_self">
+                    <div class="d-flex align-items-center">
+                        <label class="form-label d-flex mb-0" for="search-field">
+                            <i class="fa fa-search"></i>
+                        </label>
+                        <input type="hidden" value="Search" name="LoadState" />
+
+                        <input class="form-control search-field" type="search" id="search-field" name="search" placeholder="ابحث عن ناشر" style="font-family: Cairo, sans-serif;">
+                        <input type="submit" class="form-control bg-danger btn-secondary" value="بحث" />
+                    </div>
+                </form>
+                <div class="row people">
+
+                    @{
+                        foreach (var item in Model.ListOfAuthor)
+                        {
+                            <div class="col-md-6 col-lg-4 item" data-aos="zoom-out">
+                                <div class="box" style="text-align:center; padding:20px;">
+                                    <img class="rounded-circle"
+                                        src="~/Images/@item.ProfileImageUrl"
+                                        style="max-width:120px; max-height:120px; width:auto; height:auto; object-fit:cover; border-radius:50%; border:3px solid #ddd;" />
+
+
+                                    <h3 class="name" style="font-family:Cairo; margin-top:15px;">@item.FullName</h3>
+                                    <p class="description" style="font-family:Cairo">@item.Bio</p>
+
+                                    <div class="social" style="margin-top:10px;">
+                                        <a href="@item.Facbook" style="margin:0 5px; font-size:20px;"><i class="fa fa-facebook-official"></i></a>
+                                        <a href="@item.Twitter" style="margin:0 5px; font-size:20px;"><i class="fa fa-twitter"></i></a>
+                                        <a href="@item.Instagram" style="margin:0 5px; font-size:20px;"><i class="fa fa-instagram"></i></a>
+                                    </div>
+                                </div>                  
+                            </div>
+
+
+                        }
+                    }
+
+
+                </div>
+            </div>
+            <nav class="text-center float-end" style="font-family: Lato, sans-serif;border-color: var(--bs-red);margin: 10px;">
+                <ul class="pagination">
+                    @{
+                        <form method="get" class="m-2">
+                            <input type="hidden" value="All" name="LoadState" />
+                            <input type="submit" class="form-control bg-danger" value="الصفحة الاولى" />
+                        </form>
+
+                        if (Model.ListOfAuthor.Count > 0)
+                        {
+                            <form method="get" class="m-2">
+                                <input type="hidden" value="Prev" name="LoadState" />
+                                <input type="hidden" value="@Model.ListOfAuthor.First().Id" name="id" />
+                                <input type="submit" class="form-control bg-danger" value="السابق" />
+                            </form>
+                        }
+                        if (Model.ListOfAuthor.Count == Model.NoOfItem)
+                        {
+                            <form method="get" class="m-2">
+                                <input type="hidden" value="Next" name="LoadState" />
+                                <input type="hidden" value="@Model.ListOfAuthor.Last().Id" name="id" />
+                                <input type="submit" class="form-control bg-info" value="التالي" />
+                            </form>
+                        }
+
+                    }
+
+                </ul>
+            </nav>
+        </section>
+    </div>
+</section>

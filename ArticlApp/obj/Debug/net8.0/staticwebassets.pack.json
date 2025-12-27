@@ -1,0 +1,409 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\dell\\Documents\\ASP.NET MVC Core\\Articl Project\\ArticlApp\\wwwroot\\Images\\0207d0a8-e48b-4428-b75e-07e11707d8a9-OIP.jpg",
+      "PackagePath": "staticwebassets\\Images\\0207d0a8-e48b-4428-b75e-07e11707d8a9-OIP.jpg"
+    },
+    {
+      "Id": "C:\\Users\\dell\\Documents\\ASP.NET MVC Core\\Articl Project\\ArticlApp\\wwwroot\\Images\\499a9d47-096a-4c85-a07e-4bb31c2d9956-me.jpg",
+      "PackagePath": "staticwebassets\\Images\\499a9d47-096a-4c85-a07e-4bb31c2d9956-me.jpg"
+    },
+    {
+      "Id": "C:\\Users\\dell\\Documents\\ASP.NET MVC Core\\Articl Project\\ArticlApp\\wwwroot\\Images\\50012593-0e95-4839-a3f2-bc1815694559-sql.jpg",
+      "PackagePath": "staticwebassets\\Images\\50012593-0e95-4839-a3f2-bc1815694559-sql.jpg"
+    },
+    {
+      "Id": "C:\\Users\\dell\\Documents\\ASP.NET MVC Core\\Articl Project\\ArticlApp\\wwwroot\\Images\\bf05c9e8-bf02-453f-b93b-074270170d3a-man.jpg",
+      "PackagePath": "staticwebassets\\Images\\bf05c9e8-bf02-453f-b93b-074270170d3a-man.jpg"
+    },
+    {
+      "Id": "C:\\Users\\dell\\Documents\\ASP.NET MVC Core\\Articl Project\\ArticlApp\\wwwroot\\Images\\dfb983fd-df1c-4746-a1e5-ea1e5737d681-OIP.jpg",
+      "PackagePath": "staticwebassets\\Images\\dfb983fd-df1c-4746-a1e5-ea1e5737d681-OIP.jpg"
+    },
+    {
+      "Id": "C:\\Users\\dell\\Documents\\ASP.NET MVC Core\\Articl Project\\ArticlApp\\wwwroot\\Images\\f2f55039-f2c1-4eaa-ab77-94e7924754d3-data structure.jpg",
+      "PackagePath": "staticwebassets\\Images\\f2f55039-f2c1-4eaa-ab77-94e7924754d3-data structure.jpg"
+    },
+    {
+      "Id": "C:\\Users\\dell\\Documents\\ASP.NET MVC Core\\Articl Project\\ArticlApp\\wwwroot\\bootstrap\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\bootstrap\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\dell\\Documents\\ASP.NET MVC Core\\Articl Project\\ArticlApp\\wwwroot\\bootstrap\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\bootstrap\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Users\\dell\\Documents\\ASP.NET MVC Core\\Articl Project\\ArticlApp\\wwwroot\\css\\Animation-Cards-1.css",
+      "PackagePath": "staticwebassets\\css\\Animation-Cards-1.css"
+    },
+    {
+      "Id": "C:\\Users\\dell\\Documents\\ASP.NET MVC Core\\Articl Project\\ArticlApp\\wwwroot\\css\\Animation-Cards.css",
+      "PackagePath": "staticwebassets\\css\\Animation-Cards.css"
+    },
+    {
+      "Id": "C:\\Users\\dell\\Documents\\ASP.NET MVC Core\\Articl Project\\ArticlApp\\wwwroot\\css\\Article-Cards.css",
+      "PackagePath": "staticwebassets\\css\\Article-Cards.css"
+    },
+    {
+      "Id": "C:\\Users\\dell\\Documents\\ASP.NET MVC Core\\Articl Project\\ArticlApp\\wwwroot\\css\\Article-Clean.css",
+      "PackagePath": "staticwebassets\\css\\Article-Clean.css"
+    },
+    {
+      "Id": "C:\\Users\\dell\\Documents\\ASP.NET MVC Core\\Articl Project\\ArticlApp\\wwwroot\\css\\Article-List.css",
+      "PackagePath": "staticwebassets\\css\\Article-List.css"
+    },
+    {
+      "Id": "C:\\Users\\dell\\Documents\\ASP.NET MVC Core\\Articl Project\\ArticlApp\\wwwroot\\css\\Black-Navbar.css",
+      "PackagePath": "staticwebassets\\css\\Black-Navbar.css"
+    },
+    {
+      "Id": "C:\\Users\\dell\\Documents\\ASP.NET MVC Core\\Articl Project\\ArticlApp\\wwwroot\\css\\Login-Form-Clean.css",
+      "PackagePath": "staticwebassets\\css\\Login-Form-Clean.css"
+    },
+    {
+      "Id": "C:\\Users\\dell\\Documents\\ASP.NET MVC Core\\Articl Project\\ArticlApp\\wwwroot\\css\\Login-Form-Dark.css",
+      "PackagePath": "staticwebassets\\css\\Login-Form-Dark.css"
+    },
+    {
+      "Id": "C:\\Users\\dell\\Documents\\ASP.NET MVC Core\\Articl Project\\ArticlApp\\wwwroot\\css\\Navbar---Apple-1.css",
+      "PackagePath": "staticwebassets\\css\\Navbar---Apple-1.css"
+    },
+    {
+      "Id": "C:\\Users\\dell\\Documents\\ASP.NET MVC Core\\Articl Project\\ArticlApp\\wwwroot\\css\\Navbar---Apple.css",
+      "PackagePath": "staticwebassets\\css\\Navbar---Apple.css"
+    },
+    {
+      "Id": "C:\\Users\\dell\\Documents\\ASP.NET MVC Core\\Articl Project\\ArticlApp\\wwwroot\\css\\Navigation-with-Button.css",
+      "PackagePath": "staticwebassets\\css\\Navigation-with-Button.css"
+    },
+    {
+      "Id": "C:\\Users\\dell\\Documents\\ASP.NET MVC Core\\Articl Project\\ArticlApp\\wwwroot\\css\\Navigation-with-Search.css",
+      "PackagePath": "staticwebassets\\css\\Navigation-with-Search.css"
+    },
+    {
+      "Id": "C:\\Users\\dell\\Documents\\ASP.NET MVC Core\\Articl Project\\ArticlApp\\wwwroot\\css\\News-Cards.css",
+      "PackagePath": "staticwebassets\\css\\News-Cards.css"
+    },
+    {
+      "Id": "C:\\Users\\dell\\Documents\\ASP.NET MVC Core\\Articl Project\\ArticlApp\\wwwroot\\css\\Off-Canvas-Sidebar-Drawer-Navbar.css",
+      "PackagePath": "staticwebassets\\css\\Off-Canvas-Sidebar-Drawer-Navbar.css"
+    },
+    {
+      "Id": "C:\\Users\\dell\\Documents\\ASP.NET MVC Core\\Articl Project\\ArticlApp\\wwwroot\\css\\Responsive-UI-Card-02.css",
+      "PackagePath": "staticwebassets\\css\\Responsive-UI-Card-02.css"
+    },
+    {
+      "Id": "C:\\Users\\dell\\Documents\\ASP.NET MVC Core\\Articl Project\\ArticlApp\\wwwroot\\css\\Right-Sidebar.css",
+      "PackagePath": "staticwebassets\\css\\Right-Sidebar.css"
+    },
+    {
+      "Id": "C:\\Users\\dell\\Documents\\ASP.NET MVC Core\\Articl Project\\ArticlApp\\wwwroot\\css\\SIdebar-Responsive-2-1.css",
+      "PackagePath": "staticwebassets\\css\\SIdebar-Responsive-2-1.css"
+    },
+    {
+      "Id": "C:\\Users\\dell\\Documents\\ASP.NET MVC Core\\Articl Project\\ArticlApp\\wwwroot\\css\\SIdebar-Responsive-2.css",
+      "PackagePath": "staticwebassets\\css\\SIdebar-Responsive-2.css"
+    },
+    {
+      "Id": "C:\\Users\\dell\\Documents\\ASP.NET MVC Core\\Articl Project\\ArticlApp\\wwwroot\\css\\Sidebar-Menu-1.css",
+      "PackagePath": "staticwebassets\\css\\Sidebar-Menu-1.css"
+    },
+    {
+      "Id": "C:\\Users\\dell\\Documents\\ASP.NET MVC Core\\Articl Project\\ArticlApp\\wwwroot\\css\\Sidebar-Menu.css",
+      "PackagePath": "staticwebassets\\css\\Sidebar-Menu.css"
+    },
+    {
+      "Id": "C:\\Users\\dell\\Documents\\ASP.NET MVC Core\\Articl Project\\ArticlApp\\wwwroot\\css\\Sidebar-right-opening.css",
+      "PackagePath": "staticwebassets\\css\\Sidebar-right-opening.css"
+    },
+    {
+      "Id": "C:\\Users\\dell\\Documents\\ASP.NET MVC Core\\Articl Project\\ArticlApp\\wwwroot\\css\\Social-Icons.css",
+      "PackagePath": "staticwebassets\\css\\Social-Icons.css"
+    },
+    {
+      "Id": "C:\\Users\\dell\\Documents\\ASP.NET MVC Core\\Articl Project\\ArticlApp\\wwwroot\\css\\Soft-UI-Aside-Navbar.css",
+      "PackagePath": "staticwebassets\\css\\Soft-UI-Aside-Navbar.css"
+    },
+    {
+      "Id": "C:\\Users\\dell\\Documents\\ASP.NET MVC Core\\Articl Project\\ArticlApp\\wwwroot\\css\\Studious-sidebar.css",
+      "PackagePath": "staticwebassets\\css\\Studious-sidebar.css"
+    },
+    {
+      "Id": "C:\\Users\\dell\\Documents\\ASP.NET MVC Core\\Articl Project\\ArticlApp\\wwwroot\\css\\Team-Boxed.css",
+      "PackagePath": "staticwebassets\\css\\Team-Boxed.css"
+    },
+    {
+      "Id": "C:\\Users\\dell\\Documents\\ASP.NET MVC Core\\Articl Project\\ArticlApp\\wwwroot\\css\\Vertical-Left-SideBar-by-Jigar-Mistry.css",
+      "PackagePath": "staticwebassets\\css\\Vertical-Left-SideBar-by-Jigar-Mistry.css"
+    },
+    {
+      "Id": "C:\\Users\\dell\\Documents\\ASP.NET MVC Core\\Articl Project\\ArticlApp\\wwwroot\\css\\dh-card-image-left-dark.css",
+      "PackagePath": "staticwebassets\\css\\dh-card-image-left-dark.css"
+    },
+    {
+      "Id": "C:\\Users\\dell\\Documents\\ASP.NET MVC Core\\Articl Project\\ArticlApp\\wwwroot\\css\\dh-navbar-inverse.css",
+      "PackagePath": "staticwebassets\\css\\dh-navbar-inverse.css"
+    },
+    {
+      "Id": "C:\\Users\\dell\\Documents\\ASP.NET MVC Core\\Articl Project\\ArticlApp\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "C:\\Users\\dell\\Documents\\ASP.NET MVC Core\\Articl Project\\ArticlApp\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "C:\\Users\\dell\\Documents\\ASP.NET MVC Core\\Articl Project\\ArticlApp\\wwwroot\\fonts\\FontAwesome.otf",
+      "PackagePath": "staticwebassets\\fonts\\FontAwesome.otf"
+    },
+    {
+      "Id": "C:\\Users\\dell\\Documents\\ASP.NET MVC Core\\Articl Project\\ArticlApp\\wwwroot\\fonts\\font-awesome.min.css",
+      "PackagePath": "staticwebassets\\fonts\\font-awesome.min.css"
+    },
+    {
+      "Id": "C:\\Users\\dell\\Documents\\ASP.NET MVC Core\\Articl Project\\ArticlApp\\wwwroot\\fonts\\fontawesome-webfont.eot",
+      "PackagePath": "staticwebassets\\fonts\\fontawesome-webfont.eot"
+    },
+    {
+      "Id": "C:\\Users\\dell\\Documents\\ASP.NET MVC Core\\Articl Project\\ArticlApp\\wwwroot\\fonts\\fontawesome-webfont.svg",
+      "PackagePath": "staticwebassets\\fonts\\fontawesome-webfont.svg"
+    },
+    {
+      "Id": "C:\\Users\\dell\\Documents\\ASP.NET MVC Core\\Articl Project\\ArticlApp\\wwwroot\\fonts\\fontawesome-webfont.ttf",
+      "PackagePath": "staticwebassets\\fonts\\fontawesome-webfont.ttf"
+    },
+    {
+      "Id": "C:\\Users\\dell\\Documents\\ASP.NET MVC Core\\Articl Project\\ArticlApp\\wwwroot\\fonts\\fontawesome-webfont.woff",
+      "PackagePath": "staticwebassets\\fonts\\fontawesome-webfont.woff"
+    },
+    {
+      "Id": "C:\\Users\\dell\\Documents\\ASP.NET MVC Core\\Articl Project\\ArticlApp\\wwwroot\\fonts\\fontawesome-webfont.woff2",
+      "PackagePath": "staticwebassets\\fonts\\fontawesome-webfont.woff2"
+    },
+    {
+      "Id": "C:\\Users\\dell\\Documents\\ASP.NET MVC Core\\Articl Project\\ArticlApp\\wwwroot\\fonts\\ionicons.eot",
+      "PackagePath": "staticwebassets\\fonts\\ionicons.eot"
+    },
+    {
+      "Id": "C:\\Users\\dell\\Documents\\ASP.NET MVC Core\\Articl Project\\ArticlApp\\wwwroot\\fonts\\ionicons.min.css",
+      "PackagePath": "staticwebassets\\fonts\\ionicons.min.css"
+    },
+    {
+      "Id": "C:\\Users\\dell\\Documents\\ASP.NET MVC Core\\Articl Project\\ArticlApp\\wwwroot\\fonts\\ionicons.svg",
+      "PackagePath": "staticwebassets\\fonts\\ionicons.svg"
+    },
+    {
+      "Id": "C:\\Users\\dell\\Documents\\ASP.NET MVC Core\\Articl Project\\ArticlApp\\wwwroot\\fonts\\ionicons.ttf",
+      "PackagePath": "staticwebassets\\fonts\\ionicons.ttf"
+    },
+    {
+      "Id": "C:\\Users\\dell\\Documents\\ASP.NET MVC Core\\Articl Project\\ArticlApp\\wwwroot\\fonts\\ionicons.woff",
+      "PackagePath": "staticwebassets\\fonts\\ionicons.woff"
+    },
+    {
+      "Id": "C:\\Users\\dell\\Documents\\ASP.NET MVC Core\\Articl Project\\ArticlApp\\wwwroot\\img\\profile.png",
+      "PackagePath": "staticwebassets\\img\\profile.png"
+    },
+    {
+      "Id": "C:\\Users\\dell\\Documents\\ASP.NET MVC Core\\Articl Project\\ArticlApp\\wwwroot\\js\\Navbar---Apple.js",
+      "PackagePath": "staticwebassets\\js\\Navbar---Apple.js"
+    },
+    {
+      "Id": "C:\\Users\\dell\\Documents\\ASP.NET MVC Core\\Articl Project\\ArticlApp\\wwwroot\\js\\Off-Canvas-Sidebar-Drawer-Navbar-1.js",
+      "PackagePath": "staticwebassets\\js\\Off-Canvas-Sidebar-Drawer-Navbar-1.js"
+    },
+    {
+      "Id": "C:\\Users\\dell\\Documents\\ASP.NET MVC Core\\Articl Project\\ArticlApp\\wwwroot\\js\\Off-Canvas-Sidebar-Drawer-Navbar.js",
+      "PackagePath": "staticwebassets\\js\\Off-Canvas-Sidebar-Drawer-Navbar.js"
+    },
+    {
+      "Id": "C:\\Users\\dell\\Documents\\ASP.NET MVC Core\\Articl Project\\ArticlApp\\wwwroot\\js\\Right-Sidebar.js",
+      "PackagePath": "staticwebassets\\js\\Right-Sidebar.js"
+    },
+    {
+      "Id": "C:\\Users\\dell\\Documents\\ASP.NET MVC Core\\Articl Project\\ArticlApp\\wwwroot\\js\\Sidebar-Menu.js",
+      "PackagePath": "staticwebassets\\js\\Sidebar-Menu.js"
+    },
+    {
+      "Id": "C:\\Users\\dell\\Documents\\ASP.NET MVC Core\\Articl Project\\ArticlApp\\wwwroot\\js\\Sidebar-right-opening.js",
+      "PackagePath": "staticwebassets\\js\\Sidebar-right-opening.js"
+    },
+    {
+      "Id": "C:\\Users\\dell\\Documents\\ASP.NET MVC Core\\Articl Project\\ArticlApp\\wwwroot\\js\\Studious-sidebar.js",
+      "PackagePath": "staticwebassets\\js\\Studious-sidebar.js"
+    },
+    {
+      "Id": "C:\\Users\\dell\\Documents\\ASP.NET MVC Core\\Articl Project\\ArticlApp\\wwwroot\\js\\bs-init-1.js",
+      "PackagePath": "staticwebassets\\js\\bs-init-1.js"
+    },
+    {
+      "Id": "C:\\Users\\dell\\Documents\\ASP.NET MVC Core\\Articl Project\\ArticlApp\\wwwroot\\js\\bs-init.js",
+      "PackagePath": "staticwebassets\\js\\bs-init.js"
+    },
+    {
+      "Id": "C:\\Users\\dell\\Documents\\ASP.NET MVC Core\\Articl Project\\ArticlApp\\wwwroot\\js\\chart.min.js",
+      "PackagePath": "staticwebassets\\js\\chart.min.js"
+    },
+    {
+      "Id": "C:\\Users\\dell\\Documents\\ASP.NET MVC Core\\Articl Project\\ArticlApp\\wwwroot\\js\\freelancer.js",
+      "PackagePath": "staticwebassets\\js\\freelancer.js"
+    },
+    {
+      "Id": "C:\\Users\\dell\\Documents\\ASP.NET MVC Core\\Articl Project\\ArticlApp\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "C:\\Users\\dell\\Documents\\ASP.NET MVC Core\\Articl Project\\ArticlApp\\wwwroot\\js\\theme.js",
+      "PackagePath": "staticwebassets\\js\\theme.js"
+    },
+    {
+      "Id": "C:\\Users\\dell\\Documents\\ASP.NET MVC Core\\Articl Project\\ArticlApp\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "C:\\Users\\dell\\Documents\\ASP.NET MVC Core\\Articl Project\\ArticlApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "C:\\Users\\dell\\Documents\\ASP.NET MVC Core\\Articl Project\\ArticlApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "C:\\Users\\dell\\Documents\\ASP.NET MVC Core\\Articl Project\\ArticlApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "C:\\Users\\dell\\Documents\\ASP.NET MVC Core\\Articl Project\\ArticlApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\dell\\Documents\\ASP.NET MVC Core\\Articl Project\\ArticlApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "C:\\Users\\dell\\Documents\\ASP.NET MVC Core\\Articl Project\\ArticlApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "C:\\Users\\dell\\Documents\\ASP.NET MVC Core\\Articl Project\\ArticlApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "C:\\Users\\dell\\Documents\\ASP.NET MVC Core\\Articl Project\\ArticlApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\dell\\Documents\\ASP.NET MVC Core\\Articl Project\\ArticlApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "C:\\Users\\dell\\Documents\\ASP.NET MVC Core\\Articl Project\\ArticlApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "C:\\Users\\dell\\Documents\\ASP.NET MVC Core\\Articl Project\\ArticlApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\dell\\Documents\\ASP.NET MVC Core\\Articl Project\\ArticlApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\dell\\Documents\\ASP.NET MVC Core\\Articl Project\\ArticlApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "C:\\Users\\dell\\Documents\\ASP.NET MVC Core\\Articl Project\\ArticlApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "C:\\Users\\dell\\Documents\\ASP.NET MVC Core\\Articl Project\\ArticlApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "C:\\Users\\dell\\Documents\\ASP.NET MVC Core\\Articl Project\\ArticlApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\dell\\Documents\\ASP.NET MVC Core\\Articl Project\\ArticlApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "C:\\Users\\dell\\Documents\\ASP.NET MVC Core\\Articl Project\\ArticlApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "C:\\Users\\dell\\Documents\\ASP.NET MVC Core\\Articl Project\\ArticlApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Users\\dell\\Documents\\ASP.NET MVC Core\\Articl Project\\ArticlApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\dell\\Documents\\ASP.NET MVC Core\\Articl Project\\ArticlApp\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\dell\\Documents\\ASP.NET MVC Core\\Articl Project\\ArticlApp\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "C:\\Users\\dell\\Documents\\ASP.NET MVC Core\\Articl Project\\ArticlApp\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "C:\\Users\\dell\\Documents\\ASP.NET MVC Core\\Articl Project\\ArticlApp\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "C:\\Users\\dell\\Documents\\ASP.NET MVC Core\\Articl Project\\ArticlApp\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "C:\\Users\\dell\\Documents\\ASP.NET MVC Core\\Articl Project\\ArticlApp\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "C:\\Users\\dell\\Documents\\ASP.NET MVC Core\\Articl Project\\ArticlApp\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "C:\\Users\\dell\\Documents\\ASP.NET MVC Core\\Articl Project\\ArticlApp\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "C:\\Users\\dell\\Documents\\ASP.NET MVC Core\\Articl Project\\ArticlApp\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\dell\\Documents\\ASP.NET MVC Core\\Articl Project\\ArticlApp\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "C:\\Users\\dell\\Documents\\ASP.NET MVC Core\\Articl Project\\ArticlApp\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "C:\\Users\\dell\\Documents\\ASP.NET MVC Core\\Articl Project\\ArticlApp\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.ArticlApp.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.ArticlApp.props",
+      "PackagePath": "build\\ArticlApp.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.ArticlApp.props",
+      "PackagePath": "buildMultiTargeting\\ArticlApp.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.ArticlApp.props",
+      "PackagePath": "buildTransitive\\ArticlApp.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
