@@ -153,3 +153,4 @@ C:\Users\dell\Documents\ASP.NET MVC Core\Articl Project\ArticlApp\obj\Debug\net8
 C:\Users\dell\Documents\ASP.NET MVC Core\Articl Project\ArticlApp\obj\Debug\net8.0\ref\ArticlApp.dll
 C:\Users\dell\Documents\ASP.NET MVC Core\Articl Project\ArticlApp\bin\Debug\net8.0\Microsoft.Extensions.Configuration.FileExtensions.dll
 C:\Users\dell\Documents\ASP.NET MVC Core\Articl Project\ArticlApp\bin\Debug\net8.0\Microsoft.Extensions.Configuration.Json.dll
+C:\Users\dell\Documents\ASP.NET MVC Core\Articl Project\ArticlApp\obj\Debug\net8.0\ArticlApp.sourcelink.json

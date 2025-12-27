@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "U5inYyRmOZ+kidOoAa1Jm6skSAFRiwKcRp2n52kr+yg=",
+  "Hash": "0torQlHznK6yQfZ2PevXth7V9spPse8PTww7taUZp4c=",
   "Source": "ArticlApp",
   "BasePath": "_content/ArticlApp",
   "Mode": "Default",
@@ -2050,6 +2050,44 @@
       "OriginalItemSpec": "wwwroot\\Images\\50012593-0e95-4839-a3f2-bc1815694559-sql.jpg"
     },
     {
+      "Identity": "C:\\Users\\dell\\Documents\\ASP.NET MVC Core\\Articl Project\\ArticlApp\\wwwroot\\Images\\6c6aadab-a4d0-4ecb-996c-e545db365df9-AI.png",
+      "SourceId": "ArticlApp",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\dell\\Documents\\ASP.NET MVC Core\\Articl Project\\ArticlApp\\wwwroot\\",
+      "BasePath": "_content/ArticlApp",
+      "RelativePath": "Images/6c6aadab-a4d0-4ecb-996c-e545db365df9-AI.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Images\\6c6aadab-a4d0-4ecb-996c-e545db365df9-AI.png"
+    },
+    {
+      "Identity": "C:\\Users\\dell\\Documents\\ASP.NET MVC Core\\Articl Project\\ArticlApp\\wwwroot\\Images\\89f86d08-27c8-45ca-8439-aec4e5d460f3-caucasian-man-portrait-isolated-white-41168220.webp",
+      "SourceId": "ArticlApp",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\dell\\Documents\\ASP.NET MVC Core\\Articl Project\\ArticlApp\\wwwroot\\",
+      "BasePath": "_content/ArticlApp",
+      "RelativePath": "Images/89f86d08-27c8-45ca-8439-aec4e5d460f3-caucasian-man-portrait-isolated-white-41168220.webp",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Images\\89f86d08-27c8-45ca-8439-aec4e5d460f3-caucasian-man-portrait-isolated-white-41168220.webp"
+    },
+    {
       "Identity": "C:\\Users\\dell\\Documents\\ASP.NET MVC Core\\Articl Project\\ArticlApp\\wwwroot\\Images\\bf05c9e8-bf02-453f-b93b-074270170d3a-man.jpg",
       "SourceId": "ArticlApp",
       "SourceType": "Discovered",
@@ -2069,12 +2107,12 @@
       "OriginalItemSpec": "wwwroot\\Images\\bf05c9e8-bf02-453f-b93b-074270170d3a-man.jpg"
     },
     {
-      "Identity": "C:\\Users\\dell\\Documents\\ASP.NET MVC Core\\Articl Project\\ArticlApp\\wwwroot\\Images\\dfb983fd-df1c-4746-a1e5-ea1e5737d681-OIP.jpg",
+      "Identity": "C:\\Users\\dell\\Documents\\ASP.NET MVC Core\\Articl Project\\ArticlApp\\wwwroot\\Images\\daa6fbca-9fca-4198-ab14-0d79a90d50ce-erik ten hag.jpg",
       "SourceId": "ArticlApp",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\dell\\Documents\\ASP.NET MVC Core\\Articl Project\\ArticlApp\\wwwroot\\",
       "BasePath": "_content/ArticlApp",
-      "RelativePath": "Images/dfb983fd-df1c-4746-a1e5-ea1e5737d681-OIP.jpg",
+      "RelativePath": "Images/daa6fbca-9fca-4198-ab14-0d79a90d50ce-erik ten hag.jpg",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -2085,15 +2123,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\Images\\dfb983fd-df1c-4746-a1e5-ea1e5737d681-OIP.jpg"
+      "OriginalItemSpec": "wwwroot\\Images\\daa6fbca-9fca-4198-ab14-0d79a90d50ce-erik ten hag.jpg"
     },
     {
-      "Identity": "C:\\Users\\dell\\Documents\\ASP.NET MVC Core\\Articl Project\\ArticlApp\\wwwroot\\Images\\f2f55039-f2c1-4eaa-ab77-94e7924754d3-data structure.jpg",
+      "Identity": "C:\\Users\\dell\\Documents\\ASP.NET MVC Core\\Articl Project\\ArticlApp\\wwwroot\\Images\\f740d56b-fae4-4070-acf8-3c9bb282cc41-data structure.jpg",
       "SourceId": "ArticlApp",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\dell\\Documents\\ASP.NET MVC Core\\Articl Project\\ArticlApp\\wwwroot\\",
       "BasePath": "_content/ArticlApp",
-      "RelativePath": "Images/f2f55039-f2c1-4eaa-ab77-94e7924754d3-data structure.jpg",
+      "RelativePath": "Images/f740d56b-fae4-4070-acf8-3c9bb282cc41-data structure.jpg",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -2104,7 +2142,7 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\Images\\f2f55039-f2c1-4eaa-ab77-94e7924754d3-data structure.jpg"
+      "OriginalItemSpec": "wwwroot\\Images\\f740d56b-fae4-4070-acf8-3c9bb282cc41-data structure.jpg"
     },
     {
       "Identity": "C:\\Users\\dell\\Documents\\ASP.NET MVC Core\\Articl Project\\ArticlApp\\wwwroot\\img\\profile.png",
