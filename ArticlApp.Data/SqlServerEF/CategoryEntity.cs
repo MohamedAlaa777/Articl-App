@@ -44,18 +44,20 @@ namespace ArticlApp.Data.SqlServerEF
             }
         }
 
-        public int Edit(int Id, Category table)
+        public int Edit(int Id, Category updatedCategory)
         {
-            if (db.Database.CanConnect())
-            {
-                db.Categories.Update(table);
-                db.SaveChanges();
-                return 1;
-            }
-            else
-            {
+            if (!db.Database.CanConnect())
                 return 0;
-            }
+
+            var existingCategory = db.Categories.Find(Id);
+            if (existingCategory == null)
+                return 0;
+
+            // Copy updated values to tracked entity
+            db.Entry(existingCategory).CurrentValues.SetValues(updatedCategory);
+
+            db.SaveChanges();
+            return 1;
         }
 
         public Category Find(int Id)

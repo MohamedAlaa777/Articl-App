@@ -23,6 +23,11 @@ namespace ArticlApp.Code
             if (file != null)
             {
                 var fileDir = Path.Combine(webHost.WebRootPath, folder);
+                // Ensure the folder exists
+                if (!Directory.Exists(fileDir))
+                {
+                    Directory.CreateDirectory(fileDir);
+                }
                 var fileName = Guid.NewGuid() + "-" + file.FileName;
                 var filePath = Path.Combine(fileDir, fileName);
 

@@ -1,4 +1,5 @@
 ﻿using Microsoft.AspNetCore.Http;
+using Microsoft.AspNetCore.Mvc.ModelBinding.Validation;
 using System;
 using System.Collections.Generic;
 using System.ComponentModel.DataAnnotations;
@@ -21,6 +22,7 @@ namespace ArticlApp.CoreView
         [Required]
         [Display(Name = "الاسم الكامل")]
         public string FullName { get; set; } = string.Empty;
+        [ValidateNever]
         [Display(Name = "الصورة")]
         public IFormFile ProfileImageUrl { get; set; }
         [Display(Name = "السيرة الذاتية")]

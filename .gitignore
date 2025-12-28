@@ -1,0 +1,11 @@
+bin/
+obj/
+*.user
+*.log
+*.pdb
+*.dll
+*.cache
+*.json
+*.runtimeconfig.json
+*.staticwebassets.runtime.json
+appsettings.Development.json
