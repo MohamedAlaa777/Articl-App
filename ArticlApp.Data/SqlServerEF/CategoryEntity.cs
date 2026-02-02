@@ -84,10 +84,6 @@ namespace ArticlApp.Data.SqlServerEF
             }
         }
 
-        public List<Category> GetDataByUser(string UserId)
-        {
-            throw new NotImplementedException();
-        }
 
         public List<Category> Search(string SerachItem)
         {

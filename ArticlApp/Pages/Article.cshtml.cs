@@ -4,6 +4,7 @@ using System.Linq;
 using System.Threading.Tasks;
 using ArticlApp.Core;
 using ArticlApp.Data;
+using ArticlApp.Data.Interfaces;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.AspNetCore.Mvc.RazorPages;
 
@@ -11,10 +12,10 @@ namespace ArticlApp.Pages
 {
     public class ArticleModel : PageModel
     {
-        private readonly IDataHelper<AuthorPost> dataHelperForPost;
+        private readonly IDataByUserHelper<AuthorPost> dataHelperForPost;
         public AuthorPost authorPost;
 
-        public ArticleModel(IDataHelper<Core.AuthorPost> dataHelperForPost)
+        public ArticleModel(IDataByUserHelper<Core.AuthorPost> dataHelperForPost)
 
         {
             this.dataHelperForPost = dataHelperForPost;

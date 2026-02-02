@@ -8,15 +8,16 @@ using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.AspNetCore.Mvc.RazorPages;
 using System.Security.Claims;
+using ArticlApp.Data.Interfaces;
 
 namespace ArticlApp.Pages
 {
     [Authorize]
     public class AdminIndexModel : PageModel
     {
-        private readonly IDataHelper<AuthorPost> dataHelper;
+        private readonly IDataByUserHelper<AuthorPost> dataHelper;
 
-        public AdminIndexModel(IDataHelper<AuthorPost> dataHelper)
+        public AdminIndexModel(IDataByUserHelper<AuthorPost> dataHelper)
         {
             this.dataHelper = dataHelper;
         }

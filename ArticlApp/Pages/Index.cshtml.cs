@@ -7,19 +7,20 @@ using System.Linq;
 using System.Threading.Tasks;
 using ArticlApp.Core;
 using ArticlApp.Data;
+using ArticlApp.Data.Interfaces;
 namespace ArticlApp.Pages
 {
     public class IndexModel : PageModel
     {
         private readonly ILogger<IndexModel> _logger;
         private readonly IDataHelper<Core.Category> dataHelperForCategory;
-        private readonly IDataHelper<AuthorPost> dataHelperForPost;
+        private readonly IDataByUserHelper<AuthorPost> dataHelperForPost;
         public readonly int NoOfItem;
 
         public IndexModel(
             ILogger<IndexModel> logger,
             IDataHelper<Core.Category> dataHelperForCategory,
-            IDataHelper<Core.AuthorPost> dataHelperForPost
+            IDataByUserHelper<Core.AuthorPost> dataHelperForPost
             )
         {
             _logger = logger;

@@ -10,13 +10,14 @@ using System.Threading.Tasks;
 using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Identity;
 using System.Security.Claims;
+using ArticlApp.Data.Interfaces;
 
 namespace ArticlApp.Controllers
 {
     [Authorize]
     public class PostController : Controller
     {
-        private readonly IDataHelper<AuthorPost> dataHelper;
+        private readonly IDataByUserHelper<AuthorPost> dataHelper;
         private readonly IDataHelper<Author> dataHelperForAuthor;
         private readonly IDataHelper<Category> dataHelperForCategory;
         private readonly IWebHostEnvironment webHost;
@@ -29,7 +30,7 @@ namespace ArticlApp.Controllers
         private string UserId;
 
         public PostController(
-            IDataHelper<AuthorPost> dataHelper,
+            IDataByUserHelper<AuthorPost> dataHelper,
             IDataHelper<Author> dataHelperForAuthor,
             IDataHelper<Category> dataHelperForCategory,
             IWebHostEnvironment webHost,

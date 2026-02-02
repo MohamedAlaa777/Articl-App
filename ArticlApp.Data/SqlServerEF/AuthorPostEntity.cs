@@ -1,4 +1,5 @@
 ﻿using ArticlApp.Core;
+using ArticlApp.Data.Interfaces;
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -6,7 +7,7 @@ using System.Text;
 
 namespace ArticlApp.Data.SqlServerEF
 {
-    public class AuthorPostEntity : IDataHelper<AuthorPost>
+    public class AuthorPostEntity : IDataByUserHelper<AuthorPost>
     {
         private ApplicationDbContext db;
         public AuthorPostEntity(ApplicationDbContext applicationDb)

@@ -9,3 +9,9 @@ obj/
 *.runtimeconfig.json
 *.staticwebassets.runtime.json
 appsettings.Development.json
+# Visual Studio
+.vs/
+*.suo
+*.user
+*.userosscache
+*.sln.docstates

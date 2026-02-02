@@ -85,11 +85,6 @@ namespace ArticlApp.Data.SqlServerEF
             }
         }
 
-        public List<Author> GetDataByUser(string UserId)
-        {
-            throw new NotImplementedException();
-        }
-
         public List<Author> Search(string SerachItem)
         {
             if (db.Database.CanConnect())

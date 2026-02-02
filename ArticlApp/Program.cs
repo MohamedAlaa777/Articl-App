@@ -1,5 +1,6 @@
 ﻿using ArticlApp.Core;
 using ArticlApp.Data;
+using ArticlApp.Data.Interfaces;
 using ArticlApp.Data.SqlServerEF;
 using Microsoft.AspNetCore.Identity;
 using Microsoft.EntityFrameworkCore;
@@ -28,7 +29,7 @@ builder.Services.AddAuthorization(options =>
 // Data helpers (SCOPED ✔)
 builder.Services.AddScoped<IDataHelper<Category>, CategoryEntity>();
 builder.Services.AddScoped<IDataHelper<Author>, AuthorEntity>();
-builder.Services.AddScoped<IDataHelper<AuthorPost>, AuthorPostEntity>();
+builder.Services.AddScoped<IDataByUserHelper<AuthorPost>, AuthorPostEntity>();
 
 builder.Services.AddControllersWithViews();
 builder.Services.AddRazorPages();
